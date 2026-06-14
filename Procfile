@@ -1,1 +1,1 @@
-web: gunicorn mb-project-hello-world.wsgi
+web: gunicorn my_project.wsgi
